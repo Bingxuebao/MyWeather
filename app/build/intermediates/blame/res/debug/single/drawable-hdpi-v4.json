@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home.png",
+        "source": "/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/refresh.png",
+        "source": "/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/src/main/res/drawable-hdpi/refresh.png"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiangshengyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5fed8c59ef70aa96f655ce086f878db86c48ac0d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="b8e682b1ea60625d12ed7fdc2b1baa34edc1bd14">
+        <dex dex="/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cac3a6d215d740a334b2a24140c2669c3e89cef0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="744e62c8bca25848f1972236d40b5ec8beb40392">
+        <dex dex="/Users/xiangshengyuan/AndroidStudioProjects/Series.X/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3967b515d5ef2540e680aa71541c7141e01fd9f8/classes.dex" />
+    </item>
+
+</items>
