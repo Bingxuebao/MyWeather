@@ -26,6 +26,7 @@ public class WeatherActivity extends Activity implements OnClickListener{
 	 * 用于显示城市名
 	 */
 	private TextView cityNameText;
+	private TextView cityNameText1;
 	/**
 	 * 用于显示发布时间
 	 */
